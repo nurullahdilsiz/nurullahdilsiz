@@ -1,9 +1,8 @@
 
 <h1 style="font-size: 50px; font-weight: bold; text-align: center;">
-    <span onmouseover="this.style.color='#FF0000'; this.style.transform='translate3d(0, -10px, 22px)';"
-          onmouseout="this.style.color='#0000FF'; this.style.transform='none';">
+    
         Nurullah Dilsiz
-    </span>
+    
 </h1>
 
 
